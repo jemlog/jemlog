@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <br/>
-  
+  <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemlog&show_icons=true&theme=tokyonight)](https://github.com/jemlog/github-readme-stats)
 </div>
