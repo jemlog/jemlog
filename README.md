@@ -1,29 +1,39 @@
-<div align='center'>
+
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seo%20Jemin&fontSize=90" />
 
-  ### Contact & Channel
+  
+## Contact & Channel
   <a href="https://devjem.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   <a href="mailto:jemin03120111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <br/>  
+
   
-  ### Tech Stack
-  <img src="https://img.shields.io/badge/Spring-3178C6?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-F05032?style=flat-square&logo=JPA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=QueryDSL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <br/>
+## Experience
+
+**2022.12 ~ 2023.6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여기어때 인턴
+
+**2022.9 ~ 2022.12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC 11th Server
+
+
+
+## Skills & Tools
   
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-  <br/>
-  <br/>
-  
+  <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-A9BCF5?style=flat&logo=SpringBoot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=AmazonAWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-A9BCF5?style=flat&logo=Jenkins&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
+
+
+  <img src="https://img.shields.io/badge/Jira-F5ECCE?style=flat-square&logo=Jira&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-F5ECCE?style=flat&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Figma-F5ECCE?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jemlog&show_icons=true">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemlog&show_icons=true&theme=tokyonight)](https://github.com/jemlog/github-readme-stats)
-</div>
+
