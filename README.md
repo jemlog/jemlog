@@ -10,6 +10,8 @@
   
 ## Experience
 
+**2023.6 ~ 2023.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DnD 9th Server
+
 **2022.12 ~ 2023.6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여기어때 인턴
 
 **2022.9 ~ 2022.12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC 11th Server
