@@ -10,7 +10,7 @@
   
 ## Experience
 
-**2023.06 ~ 2023.08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DnD 9th Server
+**2023.06 ~ 2023.08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DND 9th Server
 
 **2022.12 ~ 2023.06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여기어때 인턴
 
