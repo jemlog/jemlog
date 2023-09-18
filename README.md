@@ -16,7 +16,7 @@
 
 **2022.09 ~ 2022.12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC 11th Server
 
-**2022.03 ~ 2022.09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한양대학교 블록체인학회 Hy-Block 1th 운영진
+**2022.03 ~ 2022.09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 블록체인학회 Hy-Block 1th 운영진
 
 ## Skills & Tools
 
