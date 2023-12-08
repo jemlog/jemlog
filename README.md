@@ -39,6 +39,4 @@
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jemlog&show_icons=true">
-
 
