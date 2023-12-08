@@ -4,7 +4,7 @@
 
   
 ## Contact & Channel
-  <a href="https://devjem.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+  <a href="https://jemlog.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   <a href="mailto:jemin03120111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
