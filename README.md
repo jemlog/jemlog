@@ -25,16 +25,15 @@
   <img src="https://img.shields.io/badge/JPA-A9BCF5?style=flat&logo=hibernate&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Redis-A9BCF5?style=flat&logo=Redis&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kafka-A9BCF5?style=flat&logo=Apache Kafka&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=AmazonAWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-A9BCF5?style=flat&logo=Jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jmeter-A9BCF5?style=flat&logo=Apache JMeter&logoColor=white"/></a>
+  
 
 
   <img src="https://img.shields.io/badge/Jira-F5ECCE?style=flat-square&logo=Jira&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-F5ECCE?style=flat&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-F5ECCE?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
