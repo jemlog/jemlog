@@ -30,12 +30,7 @@
   <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-A9BCF5?style=flat&logo=Jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
-  
 
-
-  <img src="https://img.shields.io/badge/Jira-F5ECCE?style=flat-square&logo=Jira&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-F5ECCE?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
 
 
