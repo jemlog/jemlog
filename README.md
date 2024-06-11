@@ -7,16 +7,22 @@
   <a href="https://jemlog.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   <a href="mailto:jemin03120111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-  
-## Experience
+  <div align="center">
+  <h2>Experience</h2>
+  </div>
 
-**2023.06 ~ 2023.08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DND 9th Server
+  <div align="center">
 
-**2022.12 ~ 2023.06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여기어때 인턴
+    |Period|Activity|
+|------|---|
+|2023.06 ~ 2023.08|개발 동아리 DND Server 참여|
+|2022.12 ~ 2023.06|여기어때 컴퍼니 보안대응팀 인턴쉽|
+|2022.09 ~ 2022.12|개발 동아리 CMC Server 참여|
+|2022.03 ~ 2022.09|한양대학교 블록체인학회 Hy-Block 운영진|
 
-**2022.09 ~ 2022.12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC 11th Server
+  </div>
 
-**2022.03 ~ 2022.09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 블록체인학회 Hy-Block 1th 운영진
+
 
 ## Skills & Tools
 
