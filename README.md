@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Redis-A9BCF5?style=flat&logo=Redis&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kafka-A9BCF5?style=flat&logo=Apache Kafka&logoColor=white"/></a>
+  <br/>
   <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=Amazon&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kubernetes-A9BCF5?style=flat&logo=Kubernetes&logoColor=white"/></a>
