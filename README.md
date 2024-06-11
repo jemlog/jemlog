@@ -11,16 +11,16 @@
   <h2>Experience</h2>
   </div>
 
-  <div align="center">
+<center>
 
-    |Period|Activity|
+|Period|Activity|
 |------|---|
 |2023.06 ~ 2023.08|개발 동아리 DND Server 참여|
 |2022.12 ~ 2023.06|여기어때 컴퍼니 보안대응팀 인턴쉽|
 |2022.09 ~ 2022.12|개발 동아리 CMC Server 참여|
 |2022.03 ~ 2022.09|한양대학교 블록체인학회 Hy-Block 운영진|
 
-  </div>
+</center>
 
 
 
