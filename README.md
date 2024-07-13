@@ -12,7 +12,7 @@
 
   **기술 스택** : `Java`, `Kotlin`, `Spring`, `JPA`, `MySQL`, `Redis`, `Kafka`, `Github Actions`, `Jenkins`
   
-  **관심 기술** :  `Kubernetes`, `Istio`, `ArgoCD`
+  **관심 기술** :  `Kubernetes`, `Istio`, `ArgoCD`, `Grafana LGTM`
  
   
   </div>
