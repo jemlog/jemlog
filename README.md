@@ -10,9 +10,9 @@
 
   <div align="center">
 
-  **기술 스택** : `Java`, `Kotlin`, `Spring`, `JPA`, `MySQL`, `Redis`, `Kafka`, `Github Actions`, `Jenkins`
+  `Java`, `Kotlin`,`Typescript`, `Nest.js`, `Spring`, `JPA`, `MySQL`, `Redis`, `Kafka`, `Kubernetes`, `Istio`,`Argo CD` 
   
-  **관심 기술** :  `Kubernetes`, `Istio`, `ArgoCD`
+  
  
   
   </div>
