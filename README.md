@@ -10,7 +10,7 @@
 
   <div align="center">
 
-  `Java`, `Kotlin`, `Typescript`, `Nest.js`, `Spring`, `JPA`, `MySQL`, `Redis`, `Kafka`, `Kubernetes`, `Istio`, `ArgoCD` 
+  `Java`, `Kotlin`, `Typescript`, `Nest.js`, `Spring`, `JPA`, `MySQL`, `MongoDB`, `Redis`, `Kafka`, `Kubernetes`, `Istio`
   
   
  
