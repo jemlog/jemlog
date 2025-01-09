@@ -1,7 +1,8 @@
 # 👋 Jemin Seo
-    
-## 🚀 Experience
+Backend Engineer 🤖
 
+
+## 🚀 Experience
 
 |Period|Activity|Description|
 |------|---|-----|
@@ -10,14 +11,9 @@
 |2022.12 ~ 2023.06|Internship at GCcompany (여기어때)| • Built various automated systems required by the security department |
 |2022.09 ~ 2022.12|CMC 11th Server| • Developed a Location-based social networking service based on Spring Boot and Java |
 |2022.03 ~ 2022.09|Hanyang Univ Blockchain Institute Manager| • Created a blockchain technology learning curriculum and led a study group |
-
-
-
-  <div align="center">
-    
+ 
  ## Badge
   
-  </div>
-  <img src="https://github.com/user-attachments/assets/6dcc3fb2-8f28-48d6-8dac-97cc9865e771" alt="모나리자" height="180" width="180">
+<img src="https://github.com/user-attachments/assets/6dcc3fb2-8f28-48d6-8dac-97cc9865e771" alt="모나리자" height="180" width="180">
 
 
