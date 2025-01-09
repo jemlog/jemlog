@@ -1,38 +1,17 @@
-
-  <div align="center">
+# 👋 Jemin Seo
     
- ## Skills
-  
-  </div>
+## 🚀 Experience
 
-  <div align="center">
 
-  `Java`, `Typescript`, `Nest.js`, `Spring`, `JPA`, `MySQL`, `MongoDB`, `Redis`, `Kafka`, `Kubernetes`, `Istio`
-  
-  
- 
-  
-  </div>
-    
+|Period|Activity|Description|
+|------|---|-----|
+|2024.07 ~ 2024.12 | Opensource Contribution Academy (Lead Mentee) | • Contributed to CNCF incubating opensource, LitmusChaos which is chaos engineering platform <br> • Developed Java based SDK for developers to access LitmusChaos backend|
+|2023.06 ~ 2023.08|DND 9th Server| • Developed a schedule management service based on Spring Boot and Java |
+|2022.12 ~ 2023.06|Internship at GCcompany (여기어때)| • Built various automated systems required by the security department |
+|2022.09 ~ 2022.12|CMC 11th Server| • Developed a Location-based social networking service based on Spring Boot and Java |
+|2022.03 ~ 2022.09|Hanyang Univ Blockchain Institute Manager| • Created a blockchain technology learning curriculum and led a study group |
 
-  <div align="center">
-    
- ## Experience
 
-  </div>
-
-  <div align="center">
-
-|Period|Activity|
-|------|---|
-|2024.07 ~ 2024.12 | 오픈소스 컨트리뷰션 아카데미 | 
-|2023.06 ~ 2023.08|개발 동아리 DND Server 참여|
-|2022.12 ~ 2023.06|여기어때 컴퍼니 인턴십|
-|2022.09 ~ 2022.12|개발 동아리 CMC Server 참여|
-|2022.03 ~ 2022.09|한양대학교 블록체인학회 Hy-Block|
-
-  </div>
-  </div>
 
   <div align="center">
     
