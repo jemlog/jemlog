@@ -17,6 +17,7 @@ Backend Engineer 🤖
 
 ## 🔨 Skill 
 - Java, SpringBoot, Typescript, Nest.js, JPA, MySQL, MongoDB, Kafka, Redis, Kubernetes
+- Currently interested in Istio, Langchain
 
  ## 🏅 Badge
   
