@@ -1,6 +1,9 @@
 # 👋 Jemin Seo
 Backend Engineer 🤖
 
+- I'm interested in DevOps and System Design
+- Official Member of CNCF incubating project [@LitmusChaos](https://github.com/litmuschaos)
+- Want to become a developer who works efficiently and effectively.
 
 ## 🚀 Experience
 
