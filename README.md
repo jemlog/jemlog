@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seo%20Jemin&fontSize=90" />
 
   <div align="center">
     
- ## ⚙️ Skills
+ ## Skills
   
   </div>
 
@@ -18,7 +17,7 @@
 
   <div align="center">
     
- ## 📋 Experience
+ ## Experience
 
   </div>
 
@@ -37,7 +36,7 @@
 
   <div align="center">
     
- ## ⚙️ Badge
+ ## Badge
   
   </div>
   <img src="https://github.com/user-attachments/assets/6dcc3fb2-8f28-48d6-8dac-97cc9865e771" alt="모나리자" height="180" width="180">
