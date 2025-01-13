@@ -2,7 +2,7 @@
 Backend Engineer 🤖
 
 - I'm interested in DevOps and System Design
-- Member of CNCF incubating project [@LitmusChaos](https://github.com/litmuschaos)
+- Contributing to CNCF incubating project [@LitmusChaos](https://github.com/litmuschaos)
 - Want to be a problem solver who focus on highest priority
 
 ## 🚀 Experience
