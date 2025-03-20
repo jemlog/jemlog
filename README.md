@@ -16,8 +16,7 @@ Backend Engineer 🤖
 |2022.03 ~ 2022.09|Hanyang Univ Blockchain Institute Manager| • Created a blockchain technology learning curriculum and led a study group |
 
 ## 🔨 Skill 
-- Java, SpringBoot, Typescript, Nest.js, JPA, MySQL, MongoDB, Kafka, Redis, Kubernetes
-- Currently interested in Istio, Langchain
+- Typescript, Nest.js, Java, SpringBoot, JPA, MySQL, MongoDB, Kafka, Redis, Kubernetes, Terraform, ArgoCD, Datadog
 
  ## 🏅 Badge
   
