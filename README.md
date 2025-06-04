@@ -21,5 +21,6 @@ Backend Engineer 🤖
  ## 🏅 Badge
   
 <img src="https://github.com/user-attachments/assets/6dcc3fb2-8f28-48d6-8dac-97cc9865e771" alt="모나리자" height="180" width="180">
+<img src="https://github.com/user-attachments/assets/354e999a-e93f-48fe-af74-429b1a7e75d7" alt="모나리자" height="180" width="180">
 
 
