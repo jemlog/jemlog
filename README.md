@@ -9,7 +9,6 @@ Backend Engineer 🤖
 
 |Period|Activity|Description|
 |------|---|-----|
-|2025.07 ~  | Opensource Contribution Academy | • Contributing to CNCF graduated opensource, Argo Project|
 |2024.07 ~ 2024.12 | Opensource Contribution Academy (Lead Mentee) | • Contributed to CNCF incubating opensource, LitmusChaos which is chaos engineering platform <br> • Developed Java based SDK for developers to access LitmusChaos backend|
 |2023.06 ~ 2023.08|DND 9th Server| • Developed a schedule management service based on Spring Boot and Java |
 |2022.12 ~ 2023.06|Internship at GCcompany (여기어때)| • Built various automated systems required by the security department |
